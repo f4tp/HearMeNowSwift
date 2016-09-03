@@ -4,7 +4,7 @@
 //
 //  Created by Paul Treadwell on 27/08/2016.
 //  Copyright © 2016 Paul Treadwell. All rights reserved.
-//
+//This is the View Controller
 
 import UIKit
 import AVFoundation
